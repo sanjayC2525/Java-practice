@@ -1,4 +1,4 @@
-package basics;
+package Patterns;
 public class HollowRect {
     public static void main(String [] args){
         int n = 4;

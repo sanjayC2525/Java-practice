@@ -1,4 +1,4 @@
-package basics;
+package Patterns;
 public class RectPattern {
     public static void main(String []args){
         for(int i = 0; i < 4; i ++){
